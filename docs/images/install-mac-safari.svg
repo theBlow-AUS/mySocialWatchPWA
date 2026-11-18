@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="896" viewBox="0 0 1040 896" role="img" aria-labelledby="title desc">
+<title id="title">Mac • Safari Add to Dock</title><desc id="desc">Requires macOS Sonoma 14 or later for this Safari installation method.. Numbered installation illustrations; not actual screenshots.</desc>
+<rect width="100%" height="100%" fill="#edf2f7"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="28" y="34" font-size="12" font-weight="700" fill="#725019">ILLUSTRATION — NOT A DEVICE SCREENSHOT</text>
+<text x="28" y="75" font-size="28" font-weight="700" fill="#182d40">Mac • Safari Add to Dock</text>
+<text x="28" y="107" font-size="16" fill="#425b70">Requires macOS Sonoma 14 or later for this Safari installation method.</text>
+<g transform="translate(28 138)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">1</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Open the site</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Safari → address bar</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Paste the published HTTPS URL</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Load the site online in Safari.</text>
+</g>
+<g transform="translate(532 138)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">2</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Add the web app</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Safari menu bar → File (or Share menu)</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Add to Dock</text>
+<text x="20" y="157" font-size="14" fill="#425b70">If unavailable, use supported Chrome/Edge or a normal tab.</text>
+</g>
+<g transform="translate(28 370)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">3</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Confirm the name</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Add to Dock dialog</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Social Watch → Add</text>
+<text x="20" y="157" font-size="14" fill="#425b70">No .dmg, Xcode, or developer certificate is needed.</text>
+</g>
+<g transform="translate(532 370)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">4</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Launch</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Dock / your user&#x27;s Applications folder</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Open Social Watch</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Set up in this window; tab storage may not transfer.</text>
+</g>
+<g transform="translate(28 602)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">5</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Set up securely</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Social Watch → first launch</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Create vault → Settings → Accounts</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Keep your passphrase safe. There is no password recovery.</text>
+</g>
+<text x="28" y="876" font-size="13" fill="#52667a">Social Watch visual guide • Labels and menu positions may vary by version.</text></g></svg>

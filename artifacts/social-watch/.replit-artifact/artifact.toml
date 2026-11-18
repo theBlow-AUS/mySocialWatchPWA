@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Social Watch"
+description = "A private, serverless social moderation PWA with encrypted on-device profiles, Meta Page and Instagram moderation, and customizable launch tiles. Built for GitHub Pages."
+version = "1.0.0"
+id = "artifacts/social-watch"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 20894
+
+[services.development]
+run = "pnpm --filter @workspace/social-watch run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/social-watch", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/social-watch/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "20894"
+BASE_PATH = "/"

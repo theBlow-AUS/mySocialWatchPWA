@@ -1,0 +1,2 @@
+- [Vault regression testing](vault-regression-testing.md) — exercise native browser storage faults without application unlock shortcuts.
+- [Standalone package upgrades](standalone-package-upgrades.md) — workspace updates can rewrite explicit dependencies to catalog references, breaking independent downloads.

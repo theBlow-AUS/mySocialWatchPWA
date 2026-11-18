@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="1128" viewBox="0 0 1040 1128" role="img" aria-labelledby="title desc">
+<title id="title">iPhone / iPad • Safari</title><desc id="desc">This is a Home Screen web app, not an App Store or TestFlight download.. Numbered installation illustrations; not actual screenshots.</desc>
+<rect width="100%" height="100%" fill="#edf2f7"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="28" y="34" font-size="12" font-weight="700" fill="#725019">ILLUSTRATION — NOT A DEVICE SCREENSHOT</text>
+<text x="28" y="75" font-size="28" font-weight="700" fill="#182d40">iPhone / iPad • Safari</text>
+<text x="28" y="107" font-size="16" fill="#425b70">This is a Home Screen web app, not an App Store or TestFlight download.</text>
+<g transform="translate(28 138)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">1</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Open in Safari</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Published HTTPS website</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Open in Safari</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Leave any embedded social/messaging browser first.</text>
+</g>
+<g transform="translate(532 138)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">2</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Open sharing</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Safari toolbar or Safari menu</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Share</text>
+<text x="20" y="157" font-size="14" fill="#425b70">The Share control&#x27;s position varies with Safari layout.</text>
+</g>
+<g transform="translate(28 370)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">3</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Choose installation</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Safari Share sheet → scroll down</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Add to Home Screen</text>
+<text x="20" y="157" font-size="14" fill="#425b70">If missing, check Edit Actions and device restrictions.</text>
+</g>
+<g transform="translate(532 370)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">4</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Use the web-app option</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Add to Home Screen options</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Open as Web App: on, if shown</text>
+<text x="20" y="157" font-size="14" fill="#425b70">This option is not displayed on every iOS version.</text>
+</g>
+<g transform="translate(28 602)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">5</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Confirm</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Home Screen name / icon preview</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Social Watch → Add</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Keep the published URL unchanged.</text>
+</g>
+<g transform="translate(532 602)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">6</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Launch the icon</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Your iPhone or iPad Home Screen</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Social Watch</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Create/unlock a vault in the installed web app.</text>
+</g>
+<g transform="translate(28 834)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">7</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Connect and refresh</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Social Watch → Settings → Accounts</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Connect with Facebook</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Use linked Instagram professional accounts. Refresh while</text>
+<text x="20" y="177" font-size="14" fill="#425b70">active.</text>
+</g>
+<text x="28" y="1108" font-size="13" fill="#52667a">Social Watch visual guide • Labels and menu positions may vary by version.</text></g></svg>

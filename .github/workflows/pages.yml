@@ -1,0 +1,50 @@
+name: Deploy Social Watch to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.26.1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm --filter @workspace/social-watch typecheck
+      - run: pnpm --filter @workspace/social-watch test
+      - run: pnpm --filter @workspace/social-watch exec playwright install --with-deps chromium
+      - run: pnpm --filter @workspace/social-watch test:browser
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: vault-browser-failures
+          path: generated-artifacts/social-watch-browser
+          retention-days: 7
+      - run: pnpm --filter @workspace/social-watch build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: artifacts/social-watch/dist/public
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="1128" viewBox="0 0 1040 1128" role="img" aria-labelledby="title desc">
+<title id="title">Publish once on GitHub Pages</title><desc id="desc">Use a desktop browser if GitHub hides repository settings on your phone.. Numbered installation illustrations; not actual screenshots.</desc>
+<rect width="100%" height="100%" fill="#edf2f7"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="28" y="34" font-size="12" font-weight="700" fill="#725019">ILLUSTRATION — NOT A DEVICE SCREENSHOT</text>
+<text x="28" y="75" font-size="28" font-weight="700" fill="#182d40">Publish once on GitHub Pages</text>
+<text x="28" y="107" font-size="16" fill="#425b70">Use a desktop browser if GitHub hides repository settings on your phone.</text>
+<g transform="translate(28 138)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">1</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Copy the repository</text>
+<text x="20" y="70" font-size="14" fill="#52667a">GitHub repository → Fork</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Create fork</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Already own the repository? Open it instead.</text>
+</g>
+<g transform="translate(532 138)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">2</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Check your copy</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Your GitHub account / repository</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Branch: main</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Keep the entire repository, including .github.</text>
+</g>
+<g transform="translate(28 370)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">3</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Enable workflows</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Repository → Actions</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Enable workflows if prompted</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Review pages.yml before enabling Actions on a fork.</text>
+</g>
+<g transform="translate(532 370)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">4</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Choose the Pages source</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Settings → Pages → Build and deployment</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Source: GitHub Actions</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Do not select a branch or /docs folder.</text>
+</g>
+<g transform="translate(28 602)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">5</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Start a deployment</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Actions → Deploy Social Watch to GitHub Pages</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Run workflow → main → Run workflow</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Choose the existing Social Watch workflow, not a new</text>
+<text x="20" y="177" font-size="14" fill="#425b70">template.</text>
+</g>
+<g transform="translate(532 602)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">6</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Wait for success</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Actions → newest workflow run</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">build: passed    →    deploy: passed</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Open the first failed step if either job is red.</text>
+</g>
+<g transform="translate(28 834)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">7</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Get the website address</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Settings → Pages</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Visit site</text>
+<text x="20" y="157" font-size="14" fill="#425b70">Copy the exact HTTPS address, including its path.</text>
+</g>
+<g transform="translate(532 834)">
+<rect width="480" height="208" rx="12" fill="white" stroke="#c5d1dc"/>
+<circle cx="29" cy="30" r="16" fill="#354cdd"/>
+<text x="29" y="36" text-anchor="middle" font-size="16" fill="white" font-weight="700">8</text>
+<text x="56" y="36" font-size="19" font-weight="700" fill="#182d40">Install on each device</text>
+<text x="20" y="70" font-size="14" fill="#52667a">Open the published website online</text>
+<rect x="18" y="86" width="444" height="45" rx="6" fill="#eaf0ff" stroke="#bcc8fc"/>
+<text x="30" y="114" font-size="16" font-weight="700" fill="#243ba1">Continue with your device guide</text>
+<text x="20" y="157" font-size="14" fill="#425b70">The GitHub code page is not the app. No separate iOS</text>
+<text x="20" y="177" font-size="14" fill="#425b70">build.</text>
+</g>
+<text x="28" y="1108" font-size="13" fill="#52667a">Social Watch visual guide • Labels and menu positions may vary by version.</text></g></svg>

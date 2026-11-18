@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "vx_y_OfF9tJXYcB94bnvf"
+uri = "file://generated-artifacts/social-watch-source.zip"
+type = "unspecified"
+title = "Social Watch — security-updated source"
+description = "GitHub-ready source with patched dependencies. Dependency audit: zero findings. All 22 unit tests pass; workspace and standalone builds/typechecks verified."
+logical_id = "8079c68c-6a27-457e-9946-db1f64ecf31e"
+content_hash = "sha256:4ef2721ca675a1123cb090a4d74ae68c7bddf685159a660e3bfdacb215c25a16"
+size = 119600
+mtime_ms = 1794912490523
+storage_uri = "gcs://replit-rams-assets-kirk/rams/assets/repl:8441ed67-74ce-4883-b924-9fc399991fa7/8079c68c-6a27-457e-9946-db1f64ecf31e/fd1031ba-6e96-4212-9f5f-1aadfffe3240"
+storage_version_token = "1794912565515613"
+content_type = "application/octet-stream"
